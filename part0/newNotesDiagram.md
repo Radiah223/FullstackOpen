@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram 
     participant browser 
     participant server
@@ -28,7 +29,8 @@ sequenceDiagram
     activate server
     server->>browser: STATUS code 200- [{content: "he was alone and cold, it was easy", date: "2024-06-05T16:22:39.144Z"},...] 
     
-    Note right of browser: The browser executes the callback function that renders the notes 
+    Note right of browser: The browser executes the callback function that renders the notes
+```
     
 
 
