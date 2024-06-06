@@ -1,6 +1,6 @@
 <h1>FullStack Web Development</h1>
 <div>
-  Exercises from the course "Full stack Open" hosted by the University of Helsinki 
+  Exercises from the course <a href= "https://fullstackopen.com/en/">Full stack Open</a> hosted by the University of Helsinki 
 </div>
 <h2>Contents</h2>
 <div>
