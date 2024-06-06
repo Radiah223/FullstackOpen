@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
 	participant browser 
 	participant server 
@@ -22,3 +23,4 @@ sequenceDiagram
 	activate server
 	server->>browser: STATUS code 200- [{content: "app note test - brazil", date: "2024-06-05T17:08:47.445Z"},...]
 	deactivate server
+```
