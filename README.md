@@ -5,5 +5,6 @@
 <h2>Contents</h2>
 <div>
   part0: <a href="https://github.com/Radiah223/FullstackOpen/tree/master/part0">Fundamentals of Web Applications</a>
+  <br>
   part1: <a href= "https://github.com/Radiah223/FullstackOpen/tree/master/part1">Introduction to React</a>
 </div>
